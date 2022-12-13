@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Outfit';
+    src:url("../day/font/Outfit-VariableFont_wght.ttf");
+}
+
+body {
+    background-color: #1F314F;
+    padding-top: 152px;
+    }
+
+div {
+    background-color: #FFFFFF;
+    width: 320px;
+    height: 497px;
+    border-radius: 20px;    
+    padding: 16px;
+    
+}
+
+.oval {
+    background-color: #1F314F;
+    width: 288px;
+    height: 288px;
+    border-radius: 10px;
+}
+
+img {
+    width: 160px;
+    height: 160px;
+    margin-top: 64px;
+    
+}
+
+h1 {
+    font-size: 22px;
+    font-family: 'Outfit'; 
+    color: #1F314F;
+    font-weight: 700;
+    margin: 16px;
+}
+
+p {
+    font-size: 15px;
+    font-family: 'Outfit'; 
+    color: #7D889E;
+    font-weight: 400;
+    margin-left: 32px;
+    margin-right: 32px;
+
+}
